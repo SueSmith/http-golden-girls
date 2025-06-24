@@ -1,0 +1,485 @@
+{
+  "list": [
+    {
+      "code": 100,
+      "name": "Continue",
+      "pic": "20240821_230653.jpg",
+      "info": "",
+      "alt":"Sophia on a horse"
+    },
+    {
+      "code": 101,
+      "name": "Switching Protocols",
+      "pic": "hqdefault%20(12)~2.jpg",
+      "info": "",
+      "alt":"Blanche dressed as a nun"
+    },
+    {
+      "code": 102,
+      "name": "Processing",
+      "pic": "original_bfeb5fac-bbe0-4d6d-a182-cb2b5c2f40d8_Screenshot_20240727_181700_Chrome.jpg",
+      "info": "",
+      "alt":"Rose thinking"
+    },
+    {
+      "code": 103,
+      "name": "Early Hints",
+      "pic": "Screenshot_20240728_135625_Firefox.jpg",
+      "info": "",
+      "alt":"The girls at the breakfast table"
+    },
+    {
+      "code": 200,
+      "name": "OK",
+      "pic": "7803c37fd985fd8f45ba70525c720a44~3.jpg",
+      "info": "",
+      "alt":"Christmas day watching the snow together"
+    },
+    {
+      "code": 201,
+      "name": "Created",
+      "pic": "sophia_cooking-138356711-1-8873fafd3c4e49ae80d3482e3637ba02~2.jpg",
+      "info": "",
+      "alt":"Sophia cooking"
+    },
+    {
+      "code": 202,
+      "name": "Accepted",
+      "pic": "Screenshot_20240802_173224_Firefox.jpg",
+      "info": "",
+      "alt":"Christmas gifts for everyone"
+    },
+    {
+      "code": 203,
+      "name": "Non-Authoritative Information",
+      "pic": "Screenshot_20240806_000326_Firefox.jpg",
+      "info": "",
+      "alt":"Dorothy dressed as the sheriff in a play"
+    },
+    {
+      "code": 204,
+      "name": "No Content",
+      "pic": "Screenshot_20240806_212915_YouTube.jpg",
+      "info": "",
+      "alt":"Blanche's inflatable bra deflated"
+    },
+    {
+      "code": 205,
+      "name": "Reset Content",
+      "pic": "Screenshot_20240811_003112_YouTube.jpg",
+      "info": "",
+      "alt":"The girls at the hairdresser"
+    },
+    {
+      "code": 206,
+      "name": "Partial Content",
+      "pic": "Screenshot_20240811_010122_Firefox.jpg",
+      "info": "",
+      "alt":"The girls half naked hiding behind a sheet"
+    },
+    {
+      "code": 207,
+      "name": "Multi-Status",
+      "pic": "Screenshot_20240811_223601_Firefox.jpg",
+      "info": "Bizarrely Quentin Tarantino is in here...",
+      "alt":"A load of elvis impersonators"
+    },
+    {
+      "code": 208,
+      "name": "Already Reported",
+      "pic": "Screenshot_20240811_222837_Firefox.jpg",
+      "info": "",
+      "alt":"Rose reporting on TV"
+    },
+    {
+      "code": 300,
+      "name": "Multiple Choices",
+      "pic": "ggslut.jpg",
+      "info": "",
+      "alt":"Burt Reynolds asking which one's the slut and all of them with their hands raised"
+    },
+    {
+      "code": 301,
+      "name": "Moved Permanently",
+      "pic": "Screenshot_20240813_231434_Firefox.jpg",
+      "info": "",
+      "alt":"The girls stranded on a desert island"
+    },
+    {
+      "code": 302,
+      "name": "Found",
+      "pic": "Screenshot_20240806_213604_Firefox.jpg",
+      "info": "",
+      "alt":"Rose with her lost teddy bear"
+    },
+    {
+      "code": 303,
+      "name": "See Other",
+      "pic": "Screenshot_20240815_203724_Firefox.jpg",
+      "info": "",
+      "alt":"Dorothy and Sophia dressed as Sonny and Cher"
+    },
+    {
+      "code": 304,
+      "name": "Not Modified",
+      "pic": "20240816_114935.jpg",
+      "info": "",
+      "alt":"Blanche's red wedding dress unzipped because she can't fit into it"
+    },
+    {
+      "code": 305,
+      "name": "Use Proxy",
+      "pic": "appliance.jpg", 
+      "info": "",
+      "alt":"Dorothy is lying on the couch, Blanche asks where is my heating pad, if this isn't it I'd like to know what other electrical appliance you're using under there"
+    },
+    {
+      "code": 307,
+      "name": "Temporary Redirect",
+      "pic": "Screenshot_20240818_122812_Firefox.jpg",
+      "info": "",
+      "alt":"Rose shoving a wee lassie out the door"
+    },
+    {
+      "code": 308,
+      "name": "Permanent Redirect",
+      "pic": "Screenshot_20240818_204228_Firefox.jpg",
+      "info": "",
+      "alt":"Sophia visiting Sal in heaven"
+    },
+    {
+      "code": 400,
+      "name": "Bad Request",
+      "pic": "Dorothyparty.jpg",
+      "info": "",
+      "alt":"A clown asking Dorothy to get on stage at a birthday party"
+    },
+    {
+      "code": 401,
+      "name": "Unauthorized",
+      "pic": "Screenshot_20240819_175610_YouTube.jpg",
+      "info": "Dorothy in the same episode: \"You'll have to excuse my mother. She survived a slight stroke which left her, if I can be frank, a complete burden.\"",
+      "alt":"Dorothy with her hand over Sophia's mouth"
+    },
+    {
+      "code": 402,
+      "name": "Payment Required",
+      "pic": "Screenshot_20240813_235543_YouTube.jpg",
+      "info": "",
+      "alt":"Sophia with a pillowcase full of cash"
+    },
+    {
+      "code": 403,
+      "name": "Forbidden",
+      "pic": "Screenshot_20240813_235842_Firefox.jpg",
+      "info": "",
+      "alt":"Dorothy and Stan naked in the back of a car"
+    },
+    {
+      "code": 404,
+      "name": "Not Found",
+      "pic": "Screenshot_20240821_202203_YouTube.jpg",
+      "info": "",
+      "alt":"Sophia lost in a hospital lift while Dorothy and Blanche don't notice"
+    },
+    {
+      "code": 405,
+      "name": "Method Not Allowed",
+      "pic": "Screenshot_20240818_233820_YouTube.jpg",
+      "info": "",
+      "alt":"Sophia about to hit Rose on the head with a pan"
+    },
+    {
+      "code": 406,
+      "name": "Not Acceptable",
+      "pic": "Screenshot_20240819_181446_Firefox.jpg",
+      "info": "",
+      "alt":"Sophia laughing maniacally while holding a large knife"
+    },
+    {
+      "code": 407,
+      "name": "Proxy Authentication Required",
+      "pic": "Screenshot_20240806_001418_Firefox.jpg",
+      "info": "A taboo NOT broken by Seinfeld but by the Golden Girls many years before",
+      "alt":"Sophia saying if Tony calls tell him I faked"
+    },
+    {
+      "code": 408,
+      "name": "Request Timeout",
+      "pic": "Screenshot_20240824_140900_Firefox.jpg",
+      "info": "",
+      "alt":"Sophia saying picture it, Sicily , 1912"
+    },
+    {
+      "code": 409,
+      "name": "Conflict",
+      "pic": "Screenshot_20240819_175653_Firefox.jpg",
+      "info": "",
+      "alt":"Dorothy holding a knife to Sophia's throat at a dinner event"
+    },
+    {
+      "code": 410,
+      "name": "Gone",
+      "pic": "original_e33a39b8-6068-4c40-8b8f-9e55ac1d9d49_Screenshot_20240824_144403_Firefox.jpg",
+      "info": "In the casket was Fidel who'd been seeing both Blanche and Sophia as well as half the women in Miami",
+      "alt":"The girls at a funeral"
+    },
+    {
+      "code": 411,
+      "name": "Length Required",
+      "pic": "Tough%20.jpg",
+      "info": "",
+      "alt":"At the kitchen table, Rose saying I'd seen the animals on the farm, the bulls, the horses, Blanche replying tough act to follow"
+    },
+    {
+      "code": 412,
+      "name": "Precondition Failed",
+      "pic": "beforeroom.jpg",
+      "info": "",
+      "alt":"Dorothy saying it always seemed to happen before I was in the room"
+    },
+    {
+      "code": 413,
+      "name": "Payload Too Large",
+      "pic": "Screenshot_20240806_213038_Firefox.jpg",
+      "info": "From the Men of Blanche's Boudoir calendar in my favourite episode Twas the Nightmare Before Christmas",
+      "alt":"Sophia saying I'm surprised you were able to walk in October"
+    },
+    {
+      "code": 414,
+      "name": "URI Too Long",
+      "pic": "Screenshot_20240816_115724_Firefox.jpg",
+      "info": "",
+      "alt":"Dorothy wearing a floor length crushed velvet mint green skirt with matching jacket and bow tie, Blanche in a shiny red velvet trouser suit with strands split across the chest"
+    },
+    {
+      "code": 415,
+      "name": "Unsupported Media Type",
+      "pic": "Screenshot_20240812_002701_Firefox.jpg",
+      "info": "",
+      "alt":"Sophia singing along to Purple Rain on a walkman"
+    },
+    {
+      "code": 416,
+      "name": "Range Not Satisfiable",
+      "pic": "Screenshot_20240831_115022_Firefox.jpg",
+      "info": "",
+      "alt":"Sophia in running gear"
+    },
+    {
+      "code": 417,
+      "name": "Expectation Failed",
+      "pic": "Piece.jpg",
+      "info": "",
+      "alt":"Sophia next to a guy dressed as Santa with a gun, saying Dorothy you call yourself an Italian, you can't tell the difference between a toy and a real piece?"
+    },
+    {
+      "code": 418,
+      "name": "I'm a teapot",
+      "pic": "tea.jpg",
+      "info": "",
+      "alt":"Dorothy holding a teapot saying That tea was for my mommy"
+    },
+    {
+      "code": 421,
+      "name": "Misdirected Request",
+      "pic": "Screenshot_20240903_214305_YouTube.jpg",
+      "info": "",
+      "alt":"Stan at the door, Dorothy about to slam it"
+    },
+    {
+      "code": 422,
+      "name": "Unprocessable Content",
+      "pic": "Screenshot_20240905_181728_Firefox.jpg",
+      "info": "",
+      "alt":"The girls eating Rose's food while holding their noses"
+    },
+    {
+      "code": 423,
+      "name": "Locked",
+      "pic": "Screenshot_20240906_205542_YouTube.jpg",
+      "info": "",
+      "alt":"Dorothy keeping Blanche locked in a public toilet"
+    },
+    {
+      "code": 424,
+      "name": "Failed Dependency",
+      "pic": "Screenshot_20240908_010029_Firefox.jpg",
+      "info": "",
+      "alt":"Dorothy drinking Blanche's champagne on a plane"
+    },
+    {
+      "code": 425,
+      "name": "Too Early",
+      "pic": "Screenshot_20240909_194200_Firefox.jpg",
+      "info": "",
+      "alt":"The girls sleeping in a hotel lobby"
+    },
+    {
+      "code": 426,
+      "name": "Upgrade Required",
+      "pic": "Screenshot_20240805_235808_Firefox.jpg",
+      "info": "",
+      "alt":"Dorothy and Blanche wearing metallic gym gear"
+    },
+    {
+      "code": 428,
+      "name": "Precondition Required",
+      "pic": "condoms.jpg",
+      "info": "",
+      "alt":"Dorothy shouting Condoms! Condoms! Condoms!"
+    },
+    {
+      "code": 429,
+      "name": "Too Many Requests",
+      "pic": "Screenshot_20240816_185131_Firefox.jpg",
+      "info": "",
+      "alt":"The girls all sharing a bed"
+    },
+    {
+      "code": 431,
+      "name": "Request Header Fields Too Large",
+      "pic": "Screenshot_20240909_003123_Firefox.jpg",
+      "info": "",
+      "alt":"Sophia and pals wearing hats"
+    },
+    {
+      "code": 451,
+      "name": "Unavailable For Legal Reasons",
+      "pic": "Screenshot_20240805_235923_Firefox.jpg",
+      "info": "Sophia takes the tickets to see Burt Reynolds who you may remember from status code 300 Multiple Choices aka \"Which one's the slut\"",
+      "alt":"Rose, Dorothy Blanche in a police cell, Sophia outside it"
+    },
+    {
+      "code": 500,
+      "name": "Internal Server Error",
+      "pic": "Screenshot_20240909_002218_Firefox.jpg",
+      "info": "",
+      "alt":"Sophia holding her robe open in front of the fridge"
+    },
+    {
+      "code": 501,
+      "name": "Not Implemented",
+      "pic": "Screenshot_20240915_212845_YouTube.jpg",
+      "info": "",
+      "alt":"Dorothy and Rose with a new toulet seat in the living room"
+    },
+    {
+      "code": 502,
+      "name": "Bad Gateway",
+      "pic": "Screenshot_20240812_000217_Firefox.jpg",
+      "info": "",
+      "alt":"Sophia putting a curse on someone"
+    },
+    {
+      "code": 503,
+      "name": "Service Unavailable",
+      "pic": "Screenshot_20240918_185615_YouTube~2.jpg",
+      "info": "",
+      "alt":"Blanche and Rose sleeping in a train station as a clown walks in"
+    },
+    {
+      "code": 504,
+      "name": "Gateway Timeout",
+      "pic": "Screenshot_20240806_001311_Firefox.jpg",
+      "info": "",
+      "alt":"Sophia and Sal in their Brooklyn apartment with a young Dorothy and Bea Arthur playing Sophia's mum"
+    },
+    {
+      "code": 505,
+      "name": "HTTP Version Not Supported",
+      "pic": "Screenshot_20240920_232718_Firefox.jpg",
+      "info": "",
+      "alt":"Rose wearing inflatable trousers"
+    },
+    {
+      "code": 506,
+      "name": "Variant Also Negotiates",
+      "pic": "Screenshot_20240811_204339_Firefox.jpg",
+      "info": "",
+      "alt":"Dorothy and Blanche wearing the same rouched peach dress"
+    },
+    {
+      "code": 507,
+      "name": "Insufficient Storage",
+      "pic": "32b7736e66aa376d.jpg",
+      "info": "",
+      "alt":"Blanche: I'm gonna take a long hot steamy bath with just enough water to cover my perky bosoms, Sophia: You're only gonna sit in an inch of water?"
+    },
+    {
+      "code": 508,
+      "name": "Loop Detected",
+      "pic": "Screenshot_20240811_223112_Firefox.jpg",
+      "info": "",
+      "alt":"Blanche with the wheel on the Grab that Dough gameshow"
+    },
+    {
+      "code": 510,
+      "name": "Not Extended",
+      "pic": "Screenshot_20240806_000912_Firefox.jpg",
+      "info": "From the \"I look like the mother of a solid gold dancer\" episode",
+      "alt":"Dorothy and the priest at opposite ends of the sofa"
+    },
+    {
+      "code": 511,
+      "name": "Network Authentication Required",
+      "pic": "Screenshot_20240806_001601_Firefox.jpg",
+      "info": "",
+      "alt":"Blanche and Rose on tv with the caption 555-EASY"
+    }
+  ],
+  "bonus": [
+    {
+      "pic": "Screenshot_20240811_223228_Firefox.jpg",
+      "alt":"The girls at the piano"
+    },
+    {
+      "pic": "Screenshot_20240814_000625_Firefox.jpg",
+      "alt":"Sophia looking mischievous"
+    },
+    {
+      "pic": "Screenshot_20240806_000043_Firefox.jpg",
+      "alt": "The girls dressed as hens"
+    },
+    {
+      "pic": "Screenshot_20240806_000918_Firefox.jpg",
+      "alt": "Sophia with Mickey Rooney"
+    },
+    {
+      "pic": "Screenshot_20240806_001129_Firefox.jpg",
+      "alt": "Sophia in bed with Cesar Romero"
+    },
+    {
+      "pic": "Screenshot_20240811_223336_Firefox.jpg",
+      "alt": "Dorothy with Dick van Dyke"
+    },
+    {
+      "pic": "Screenshot_20240825_182402_Firefox.jpg",
+      "alt": "Blanche with Debbie Reynolds"
+    },
+    {
+      "pic": "clooney-golden-girls-1.jpg",
+      "alt": "George Clooney with Sophia and a love interest of Dorothy's"
+    },
+    {
+      "pic": "Screenshot_20240924_001317_Firefox.jpg",
+      "alt": "Sophia with Julio Iglesias"
+    },
+    {
+      "pic": "Screenshot_20240924_001334_Firefox.jpg",
+      "alt": "Dorothy with Leslie Nielsen"
+    },
+    {
+      "pic": "Screenshot_20240924_001355_Firefox.jpg",
+      "alt": "Dorothy with Alex Trebek and Merv Griffin"
+    },
+    {
+      "pic": "Screenshot_20240924_001408_Firefox.jpg",
+      "alt": "Rose with Don Ameche"
+    },
+    {
+      "pic": "Screenshot_20240924_233821_Firefox.jpg",
+      "alt": "The girls wearing golf gear"
+    }
+  ]
+}
